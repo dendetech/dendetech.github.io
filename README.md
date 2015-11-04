@@ -1,2 +1,2 @@
-# dendetech
+# Dendetech
 Dendetech Global
