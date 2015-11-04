@@ -1,2 +1,2 @@
-# dendetech.github.io
+# dendetech
 Dendetech Global
